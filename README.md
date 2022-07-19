@@ -2,6 +2,7 @@
 
 # How to use:
 1. clone the repo
+2. cd into "scandiweb-frontend-test"
 2. `yarn`
 3. `yarn dev`
 
