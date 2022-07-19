@@ -7,3 +7,6 @@
 3. `yarn dev`
 
 >**Note** I used Local Storage to make the state presistent in the app so you may need to refresh to see changes to the UI.
+
+# Author
+### Momen Sameh
